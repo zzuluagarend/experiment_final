@@ -55,7 +55,10 @@ var surveyJSON = {
      "titleLocation": "hidden",
      "isRequired": true,
      "choices": [
-      "1"
+      {
+       "value": "1",
+       "text": "  "
+      }
      ],
      "otherErrorText": "c",
      "colCount": 0
