@@ -1,0 +1,35 @@
+/* body { */
+	/* margin: 0 auto;  */
+	/* max-width: 1000px; */
+/* } */
+
+input.sv-btn.sv-footer__prev-btn {
+	display: none;
+}
+
+/* table.table.sv_q_matrix { */
+	/* vertical-align: middle; */
+/* } */
+
+/* table.table.sv_q_matrix, tr { */
+	/* height: 50px; */
+/* } */
+
+/* textarea { */
+  /* height: 200px; */
+  /* width: 100%; */
+/* } */
+
+label {
+  text-align: center;
+}
+
+sv-item.sv-radio.sv-selectbase__item.sv-radio--checked {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
+
+/* .sv_qstn  */
