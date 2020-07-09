@@ -396,7 +396,7 @@ var surveyJSON = {
     }
    ]
   },
-  {
+  /*{
    "name": "news_stimulus_pos_1",
    "elements": [
     {
@@ -487,7 +487,7 @@ var surveyJSON = {
     }
    ],
    "questionsOrder": "random"
-  },
+  },*/
   {
    "name": "ioed_instructions",
    "elements": [
