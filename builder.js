@@ -55,10 +55,7 @@ var surveyJSON = {
      "titleLocation": "hidden",
      "isRequired": true,
      "choices": [
-      {
-       "value": "1",
-       "text": "  "
-      }
+      "1"
      ],
      "otherErrorText": "c",
      "colCount": 0
@@ -114,7 +111,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "gw_at",
-     "title": "How likely you think it is for humanity to overcome the negative effects of the current climate change emergency (as for instance, achieving the goals adopted in the Paris agreement).",
+     "title": "How likely do you think it is for humanity to overcome the negative effects of the current climate change emergency (as for instance, achieving the goals adopted in the Paris agreement).",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
@@ -144,7 +141,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "nuclear_at",
-     "title": "how appropriate you think the nuclear energy is as an alternative to conventional energy production methods (i.e., fossil fuels as coal, oil and natural gas).",
+     "title": "how appropriate do you think the nuclear energy is as an alternative to conventional energy production methods (i.e., fossil fuels as coal, oil and natural gas).",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
@@ -174,7 +171,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "gmo_at",
-     "title": "How far do you agree or disagree with the use of genetic engineering for food production and the treatment of human and animal diseases.",
+     "title": "How far do you agree or disagree with the use of genetic engineering for food production.",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
@@ -310,7 +307,7 @@ var surveyJSON = {
     {
      "type": "html",
      "name": "negative_news_1",
-     "html": "</html>\n<h1><center>Why we won’t avoid a climate catastrophe</center></h1>\n</br>\n<p>On the first Earth Day, 22 April 1970, 20 million people turned to the streets in America—a way bigger crowd than the man who’d dreamed up the occasion, U.S. senator Gaylord Nelson, had anticipated. \n</br>\n</br>\nHowever, toward the end of his report on the festivities, NBC presenter Frank Blair, delivered a curious message. Quoting a government scientist named J. Murray Mitchell, Blair alerted on an “awesome Earth Day warning.” Blair summarized the warning this way: Unless something were done to reduce air pollution, it would “create a greenhouse effect” that would warm the entire planet. Eventually the effect would be enough to melt the Arctic ice cap and flood “vast areas of the world.”\n</br>\n</br>\nIn 1970 the term “global warming” had yet to be coined. Scientists knew that certain gases heat up the Earth. But only a few had tried to calculate what the impact of burning fossil fuels would be. Now, its effects are disturbingly evident. Over the past half century, perennial ice cap has shrunk by more than a million square miles. Sea levels are rising ever faster, largely thanks to accelerating melt from Greenland and Antarctica. \n</br>\n</br>\nAnd the kind of sea-level rise that will make life difficult in places like Boston is apt to make it impossible in places like the Marshall Islands and the Maldives. A recent study by American and Dutch researchers predicted that by the middle of this century, most atolls would be uninhabitable. A warmer world is also racked by deeper droughts, fiercer storms, and more erratic monsoons. It’s a world where the wildfire season lasts longer and the blazes grow bigger and more intense. Land degradation, coral bleaching, increasingly deadly heat waves, the expansion of marine dead zones—these are all happening now. We’re already seeing a great deal of damage, and it’s increasing year by year. But to a disturbing extent, the future has already been written. <b>(Continue next page)</b>\n</p>\n</html>"
+     "html": "</html>\n<h1><center>Why we won’t avoid a climate catastrophe</center></h1>\n</br>\n<p>On the first Earth Day, 22 April 1970, 20 million people turned to the streets in America—a way bigger crowd than the man who’d dreamed up the occasion, U.S. senator Gaylord Nelson, had anticipated. \n</br>\n</br>\nHowever, toward the end of his report on the festivities, NBC presenter Frank Blair, delivered a curious message. Quoting a government scientist named J. Murray Mitchell, Blair issued an “awesome Earth Day warning.” Blair summarized the warning this way: Unless something was done to reduce air pollution, it would “create a greenhouse effect” that would warm the entire planet. Eventually the effect would be enough to melt the Arctic ice cap and flood “vast areas of the world.”\n</br>\n</br>\nIn 1970 the term “global warming” had yet to be coined. Scientists knew that certain gases heat up the Earth. But only a few had tried to calculate what the impact of burning fossil fuels would be. Now, its effects are disturbingly evident. Over the past half century, the perennial ice cap has shrunk by more than a million square miles. Sea levels are rising ever faster, largely due to accelerating melt from Greenland and Antarctica. \n</br>\n</br>\nAnd the kind of sea-level rise that will make life difficult in places like Boston is apt to make it impossible in places like the Marshall Islands and the Maldives. A recent study by American and Dutch researchers predicted that by the middle of this century, most atolls would be uninhabitable. A warmer world is also racked by deeper droughts, fiercer storms, and more erratic monsoons. It’s a world where the wildfire season lasts longer and the blazes grow bigger and more intense. Land degradation, coral bleaching, increasingly deadly heat waves, the expansion of marine dead zones—these are all happening now. We’re already seeing a great deal of damage, and it’s increasing year by year. But to a disturbing extent, the future has already been written. <b>(Continue next page)</b>\n</p>\n</html>"
     }
    ]
   },
@@ -321,7 +318,7 @@ var surveyJSON = {
      "type": "html",
      "name": "negative_news_2",
      "hideNumber": true,
-     "html": "</html>\n</p>\n</br>\n</br>\nIn 1970 the planet was home to 3.7 billion people. There were some 200 million cars and trucks on the road; oil consumption was around 45 million barrels a day. Today there are nearly eight billion people and some 1.5 billion vehicles on the planet. Global oil consumption has more than doubled, as has power use and pork and poultry consumption. Yet, we kept “demanding more and more.” \n</br>\n</br>\nThis means that even if we were to start cutting emissions today, the problem of climate change would continue to grow—just as the water level in a bathtub will continue to rise if you reduce but don’t shut off the flow from the tap. To keep temperatures under the 2-degree threshold, global emissions would have to drop by at least half over the next few decades, and all the way to zero by 2070 or so.\n</br>\n</br>\nThe big boom in renewable energy has not reduced our use of fossil fuels, because we keep demanding more and more energy. If current trends continue, the world in 2070 will be a very different and much more dangerous place—one in which flooding, drought, fire, and probably also climate-related unrest will have forced millions of people from their homes.\n</br>\n</br>\nIf people are doing better than they were in 1970, clearly the opposite is true for most other creatures. The two trends can be traced to the same source. To feed, house, and provide energy for our own growing population, we’ve appropriated ever more of the world’s resources for ourselves.\n</br>\n</br>\nPerhaps we’ll also figure out ways to deal with rising sea levels and fiercer storms and deeper droughts. Perhaps new, genetically engineered crops will allow us to continue to feed a growing population even as the world warms. Perhaps we’ll find “the interconnected web of life” isn’t essential to human existence after all. It would mean we could continue indefinitely along on our current path—altering the atmosphere, draining wetlands, emptying the oceans, and clearing the skies of life. Having freed ourselves from nature, we would find ourselves more and more alone, except perhaps for our insect drones.\n</p>\n</html>"
+     "html": "</html>\n</p>\n</br>\n</br>\nIn 1970 the planet was home to 3.7 billion people. There were some 200 million cars and trucks on the road; oil consumption was around 45 million barrels a day. Today there are nearly eight billion people and some 1.5 billion vehicles on the planet. Global oil consumption has more than doubled, as has power use and pork and poultry consumption. Yet, we kept “demanding more and more.” \n</br>\n</br>\nThis means that even if we were to start cutting emissions today, the problem of climate change would continue to grow—just as the water level in a bathtub will continue to rise if you reduce but don’t shut off the flow from the tap. To keep temperatures under the 2-degree threshold, global emissions would have to drop by at least half over the next few decades, and all the way to zero by 2070 or so.\n</br>\n</br>\nThe big boom in renewable energy has not reduced our use of fossil fuels, because we keep demanding more and more energy. If current trends continue, the world in 2070 will be a very different and much more dangerous place—one in which flooding, drought, fire, and probably also climate-related unrest will have forced millions of people from their homes.\n</br>\n</br>\nIf people are doing better than they were in 1970, clearly the opposite is true for most other creatures. The two trends can be traced to the same source. To feed, house, and provide energy for our own growing population, we’ve appropriated ever more of the world’s resources for ourselves.\n</br>\n</br>\nPerhaps we’ll also figure out ways to deal with rising sea levels and fiercer storms and deeper droughts. Perhaps new, genetically engineered crops will allow us to continue to feed a growing population even as the world warms. Perhaps we’ll find “the interconnected web of life” isn’t essential to human existence after all. It would mean we could continue indefinitely along on our current path—altering the atmosphere, draining wetlands, emptying the oceans, and clearing the skies of life. Having freed ourselves from nature, we would find ourselves more and more alone, except perhaps for our insect drones.\n</p>\n</br>\n</br>\nSource, adapted, see: \n<a href=\"url\">https://www.nationalgeographic.com/magazine/2020/04/why-we-wont-avoid-a-climate-catastrophe-feature/</a>\n</html>"
     }
    ]
   },
@@ -402,7 +399,7 @@ var surveyJSON = {
     {
      "type": "html",
      "name": "story_1",
-     "html": "</html>\n<h1><center>Why we’ll succeed in saving the planet from climate change</center></h1>\n</br>\n<p>Life will be different—and warmer—in 2070. But we will find ways to limit carbon emissions, embrace nature, and thrive. \n</br>\n</br>\nIn February 1970, After 50 years of the first Earth day, my mother remembers those gowns well, 50 years later. The students that day were worried about dirty water and overpopulation as well as dirty air, but my mother was optimistic. “I assumed that human beings would step up when we had to,” she says. And to an extent we did: Cars in the United States are 99 percent cleaner than they were back then, thanks to pollution laws.\n</br>\n</br>\nWhat gives me hope? We already have the knowledge and technology we need to feed a larger population, provide energy for all, begin to reverse climate change, and prevent most extinctions. The public desire for action is bursting forth on the streets. Last September some six million people worldwide went on “climate strike.” Just as in 1970, the electric crackle of cultural change is once again in the air. I believe we will build a good 2070.\n</br>\n</br>\nIt will not look like 2020 or 1970. We cannot undo what we’ve done; we cannot go back in time. Change—ecological, economic, social—is inevitable. I predict that we will look back at the late 20th and early 21st centuries as a painful, turbulent transition, during which humanity learned to thrive in positive ecological relationships with one another and with the species around us. We cannot solve the climate crisis by being ‘good’ consumers. But we can make things much better by being good citizens.\n</br>\n</br>\nA quarter of emissions come from electricity and heat generation. Happily, with the political will, these are also the easiest emissions to eliminate. “We could easily cut it in half in 10 years,” says Jonathan Foley, the executive director of Project Drawdown, which does cost-benefit analyses of climate change solutions. Wind and solar power are mature enough to deploy on a massive scale, and batteries to store the power—both centrally and house-to-house—are getting better and cheaper. Meanwhile, coal companies are going bankrupt.\n<b>(Continue next page)</b>\n</p>\n</html>"
+     "html": "</html>\n<h1><center>Why we’ll succeed in saving the planet from climate change</center></h1>\n</br>\n<p>Life will be different—and warmer—in 2070. But we will find ways to limit carbon emissions, embrace nature, and thrive. \n</br>\n</br>\nFifty years after the first Earth Day, in February 1970, my mother remembers those gowns well. The students that day were worried about dirty water and overpopulation as well as dirty air, but my mother was optimistic. “I assumed that human beings would step up when we had to,” she says. And to an extent we did: Cars in the United States are 99 percent cleaner than they were back then, thanks to pollution laws.\n</br>\n</br>\nWhat gives me hope? We already have the knowledge and technology we need to feed a larger population, provide energy for all, begin to reverse climate change, and prevent most extinctions. The public desire for action is bursting forth on the streets. Last September some six million people worldwide went on “climate strike.” Just as in 1970, the electric crackle of cultural change is once again in the air. I believe we will build a good 2070.\n</br>\n</br>\nIt will not look like 2020 or 1970. We cannot undo what we’ve done; we cannot go back in time. Change—ecological, economic, social—is inevitable. I predict that we will look back at the late 20th and early 21st centuries as a painful, turbulent transition, during which humanity learned to thrive in positive ecological relationships with one another and with the species around us. We cannot solve the climate crisis by being ‘good’ consumers. But we can make things much better by being good citizens.\n</br>\n</br>\nA quarter of emissions come from electricity and heat generation. Happily, with the political will, these are also the easiest emissions to eliminate. “We could easily cut it in half in 10 years,” says Jonathan Foley, the executive director of Project Drawdown, which does cost-benefit analyses of climate change solutions. Wind and solar power are mature enough to deploy on a massive scale, and batteries to store the power—both centrally and house-to-house—are getting better and cheaper. Meanwhile, coal companies are going bankrupt.\n<b>(Continue next page)</b>\n</p>\n</html>"
     }
    ]
   },
@@ -412,7 +409,7 @@ var surveyJSON = {
     {
      "type": "html",
      "name": "story_2",
-     "html": "</html>\n<p>Agriculture, forestry, and land use are trickier. One solution is to stop subsidizing meat production and to encourage society-wide shifts to more plant foods. I don’t imagine everyone will be vegan in 2070. But most people will simply eat far less meat than they do today—and probably won’t miss it. \n</br>\n</br>\nThe rest of our carbon emissions come from industry, transportation, and buildings. The only real option is for governments to drive the change with tax incentives and regulations. In Norway half of new cars registered are now electric, in large part because the government exempts them from sales tax, making them as cheap as gas-powered cars—the sale of which will be banned by 2025.\n</br>\n</br>\nOne of the most cost-effective solutions to climate change, says Foley, is ensuring that girls and women have access to education and birth control. Women in Kenya, for example, went from having 8.1 children on average in the 1970s to just 3.7 children in 2015.\n</br>\n</br>\nTo tackle climate change, even as we turn global emissions down to near zero, we still will need to invest in methods to remove some greenhouse gases already in the atmosphere. Technologies to do this are promising but mostly in their infancy—except for trees, which in the short term at least are good at soaking up carbon. New research suggests most species can be saved and wildlife restored to higher abundances with a combination of more parks and protected areas, restoration of some ecosystems, and a reduction in farmland. \n</br>\n</br>\nIt took me way too long to realize that forces such as colonialism and racism are part of the climate crisis and need to be addressed as part of the solution. Real climate justice would make Earth more resilient even as it helped humanity heal from historic trauma and pain. In a sense, climate change is an opportunity for us to step up—to grow up—as a species.\n</p>\n</html>"
+     "html": "</html>\n<p>Agriculture, forestry, and land use are trickier. One solution is to stop subsidizing meat production and to encourage society-wide shifts to more plant foods. I don’t imagine everyone will be vegan in 2070. But most people will simply eat far less meat than they do today—and probably won’t miss it. \n</br>\n</br>\nThe rest of our carbon emissions come from industry, transportation, and buildings. The only real option is for governments to drive the change with tax incentives and regulations. In Norway half of the new cars registered are now electric, in large part because the government exempts them from sales tax, making them as cheap as gas-powered cars—the sale of which will be banned by 2025.\n</br>\n</br>\nOne of the most cost-effective solutions to climate change, says Foley, is ensuring that girls and women have access to education and birth control. Women in Kenya, for example, went from having 8.1 children on average in the 1970s to just 3.7 children in 2015.\n</br>\n</br>\nTo tackle climate change, even as we turn global emissions down to near zero, we still will need to invest in methods to remove some greenhouse gases already in the atmosphere. Technologies to do this are promising but mostly in their infancy—except for trees, which in the short term at least are good at soaking up carbon. New research suggests most species can be saved and wildlife restored to higher abundances with a combination of more parks and protected areas, restoration of some ecosystems, and a reduction in farmland. \n</br>\n</br>\nIt took me way too long to realize that forces such as colonialism and racism are part of the climate crisis and need to be addressed as part of the solution. Real climate justice would make Earth more resilient even as it helped humanity heal from historic trauma and pain. In a sense, climate change is an opportunity for us to step up—to grow up—as a species.\n</p>\n</br>\n</br>\nSource, adapted, see: \n<a href=\"url\">https://www.nationalgeographic.com/magazine/2020/04/why-we-will-succeed-in-saving-the-planet-from-climate-change-feature/</a>\n</html>"
     }
    ]
   },
@@ -551,14 +548,6 @@ var surveyJSON = {
      ],
      "rows": [
       {
-       "value": "gw",
-       "text": "How global warming works"
-      },
-      {
-       "value": "drugs",
-       "text": "How antidepressants affect the brain"
-      },
-      {
        "value": "gmo",
        "text": "How genetic engineering is used to produce genetically modified organisms"
       },
@@ -567,8 +556,16 @@ var surveyJSON = {
        "text": "How solar panels produce electricity"
       },
       {
+       "value": "drugs",
+       "text": "How antidepressants affect the brain"
+      },
+      {
        "value": "antibio",
        "text": "How antibiotics work"
+      },
+      {
+       "value": "gw",
+       "text": "How global warming works"
       },
       {
        "value": "nuclear",
@@ -585,7 +582,7 @@ var surveyJSON = {
     {
      "type": "html",
      "name": "explanation_ins",
-     "html": "<!DOCTYPE html>\n<html>\n<body>\n<p>\nNow, I’d like to probe your knowledge in a little more detail about the topic you read the story about. Please describe all the information that you know about how global warming occurs and how the human impact has accelerated it. Try to include as much information as you can. If you find that you are unsure about certain pieces of information, please write the word “UNSURE” in your description at that point, and then continue. Feel free to use as much space as you need.\n</br>\n</br>\nPlease take your time, as I expect your best explanation.</p>\n</br>\n</br>\n<p style=\"font-size:18px\">How does global warming work?</p>\n</body>\n</html>\n"
+     "html": "<!DOCTYPE html>\n<html>\n<body>\n<p>\nNow, I’d like to probe your knowledge in a little more detail about the topic you read the story about. Please describe all the information that you know about how global warming occurs and how the human impact has accelerated it. That is, your explanation should state precisely, in a continuous step-by-step chain, what is the physical mechanism that produces climate change and how human activity has contributed to it. Try to include as much information as you can. If you find that you are unsure about certain pieces of information, please write the word “UNSURE” in your description at that point, and then continue. Feel free to use as much space as you need.\n</br>\n</br>\nPlease take your time, as I expect your best explanation.</p>\n</br>\n</br>\n<p style=\"font-size:18px\">How does global warming work?</p>\n</body>\n</html>\n"
     },
     {
      "type": "comment",
@@ -687,7 +684,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "gm_at_post",
-     "title": "How likely you think it is for humanity to overcome the negative effects of the current climate change emergency (as for instance, achieving the goals adopted in the Paris agreement).",
+     "title": "How likely do you think it is for humanity to overcome the negative effects of the current climate change emergency (as for instance, achieving the goals adopted in the Paris agreement).",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
@@ -717,7 +714,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "nucelar_at_post",
-     "title": "how appropriate you think the nuclear energy is as an alternative to conventional energy production methods (i.e., fossil fuels as coal, oil and natural gas).",
+     "title": "how appropriate do you think the nuclear energy is as an alternative to conventional energy production methods (i.e., fossil fuels as coal, oil and natural gas).",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
@@ -747,7 +744,7 @@ var surveyJSON = {
     {
      "type": "radiogroup",
      "name": "gmo_at_post",
-     "title": "How far do you agree or disagree with the use of genetic engineering for food production and the treatment of human and animal diseases.",
+     "title": "How far do you agree or disagree with the use of genetic engineering for food production.",
      "hideNumber": true,
      "isRequired": true,
      "choices": [
