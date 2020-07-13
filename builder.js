@@ -55,7 +55,10 @@ var surveyJSON = {
      "titleLocation": "hidden",
      "isRequired": true,
      "choices": [
-      "1"
+	 {
+      "value": "1",
+       "text": " "
+	 }
      ],
      "otherErrorText": "c",
      "colCount": 0
@@ -393,7 +396,7 @@ var surveyJSON = {
     }
    ]
   },
-  {
+  /*{
    "name": "news_stimulus_pos_1",
    "elements": [
     {
@@ -485,7 +488,7 @@ var surveyJSON = {
    ],
    "questionsOrder": "random"
   },
-  {
+  */{
    "name": "ioed_instructions",
    "elements": [
     {
