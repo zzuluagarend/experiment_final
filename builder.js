@@ -966,6 +966,22 @@ var surveyJSON = {
      "name": "question2",
      "title": "VP-Hour info:",
      "description": "If you want to obtain a VP-Hour for your participation in this experiment, please write below your last name, first name and your student number. These data will be deleted once the examination office is informed of your participation."
+    },
+    {
+     "type": "dropdown",
+     "name": "program",
+     "title": "Program:",
+     "description": "Are you a psychology or cognitive sciences student?",
+     "choices": [
+      {
+       "value": "item1",
+       "text": "Cognitive Sciences"
+      },
+      {
+       "value": "item2",
+       "text": "Psychology"
+      }
+     ]
     }
    ]
   }
