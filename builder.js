@@ -961,12 +961,12 @@ var surveyJSON = {
      "title": "Native languages:",
      "description": "(i.e., The language spoken at home when you were a child)"
     },
-    {
+    /* {
      "type": "text",
      "name": "question2",
-     "title": "VP-Hour info:",
+     "title": "Extra-credit info:",
      "description": "If you want to obtain an extra-credit for your participation in this experiment, please write below your last name, first name and your student number. These data will be deleted once the information is sent to the corresponding lecturer."
-    },
+    }, */
     {
      "type": "dropdown",
      "name": "program",
