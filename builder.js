@@ -14,7 +14,7 @@ var surveyJSON = {
     {
      "type": "html",
      "name": "introduction",
-     "html": "<!DOCTYPE html>\n<html>\n<body>\n\n<h1><center>Welcome!</center></h1>\n<br />\n<br />\n<p>Thank you for taking part in this experiment! The data you will provide here will be kept anonymous and only shared with the researchers supervising this master thesis. Your participation in this experiment is voluntary. You may quit at any moment without negative consequences.\n<br />\n<br />\nThe experiment will take around 30 minutes during which <b>I will ask you to neither leave the window or search in your phone</b>. Please read the instructions carefully and answer the questions fully.</p>\n<br />\n<br />\n</body>\n</html>\n"
+     "html": "<!DOCTYPE html>\n<html>\n<body>\n\n<h1><center>Welcome!</center></h1>\n<br />\n<br />\n<p>Thank you for taking part in this experiment! The data you will provide here will be kept anonymous and only shared with the researchers supervising this master thesis. Your participation in this experiment is voluntary. You may quit at any moment without negative consequences.\n<br />\n<br />\nThe experiment will take around 30 minutes during which <b>I will ask you to neither leave the window or search in your phone</b>. Please read the instructions carefully and answer the questions fully.</p>\n<br />\nIf you want to know more about this research, please contact me to this email: <b>zzuluagar@gmail.com<b/><br />\n</body>\n</html>\n"
     }
    ]
   },
@@ -965,17 +965,17 @@ var surveyJSON = {
      "type": "text",
      "name": "question2",
      "title": "VP-Hour info:",
-     "description": "If you want to obtain a VP-Hour for your participation in this experiment, please write below your last name, first name and your student number. These data will be deleted once the examination office is informed of your participation."
+     "description": "If you want to obtain an extra-credit for your participation in this experiment, please write below your last name, first name and your student number. These data will be deleted once the information is sent to the corresponding lecturer."
     },
     {
      "type": "dropdown",
      "name": "program",
      "title": "Program:",
-     "description": "Are you a psychology or cognitive sciences student?",
+     "description": "Are you a psychology or cognitive science student?",
      "choices": [
       {
        "value": "item1",
-       "text": "Cognitive Sciences"
+       "text": "Cognitive Science"
       },
       {
        "value": "item2",
